@@ -29,16 +29,16 @@
     "@cucumber/gherkin-streams": "^5.0.1",
     "@cucumber/message-streams": "^4.0.1",
     "@types/mocha": "9.1.1",
-    "@types/node": "16.11.41",
+    "@types/node": "16.11.47",
     "fast-glob": "3.2.11",
     "mocha": "10.0.0",
-    "ts-node": "10.8.1",
+    "ts-node": "10.9.1",
     "typescript": "4.7.4"
   },
   "dependencies": {
-    "@cucumber/messages": "^19.1.0",
+    "@cucumber/messages": "^19.1.2",
     "@teppeis/multimaps": "2.0.0",
-    "commander": "9.3.0"
+    "commander": "9.4.0"
   },
   "directories": {
     "test": "test"
